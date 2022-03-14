@@ -23,6 +23,7 @@
 
 struct uv_pipe_s {
   int something;
+  int nothing;
 };
 
 int uv_pipe_open(struct uv_pipe_s *handle, int fd)
