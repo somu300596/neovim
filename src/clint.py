@@ -60,6 +60,7 @@ import json
 import collections  # for defaultdict
 import json_reader
 import not_good
+import not_bad
 
 _USAGE = """
 Syntax: clint.py [--verbose=#] [--output=vs7] [--filter=-x,+y,...]
