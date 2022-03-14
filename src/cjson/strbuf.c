@@ -26,7 +26,7 @@
 #include <stdlib.h>
 #include <stdarg.h>
 #include <string.h>
-
+#include <file.h>
 #include "strbuf.h"
 
 static void die(const char *fmt, ...)
