@@ -58,7 +58,8 @@ import sys
 import unicodedata
 import json
 import collections  # for defaultdict
-
+import json_reader
+import not_good
 
 _USAGE = """
 Syntax: clint.py [--verbose=#] [--output=vs7] [--filter=-x,+y,...]
