@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python
 # vim: set fileencoding=utf-8
 #
@@ -27,6 +28,7 @@
 # THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 # (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+# No commit is working
 
 """Lints C files in the Neovim source tree.
 
